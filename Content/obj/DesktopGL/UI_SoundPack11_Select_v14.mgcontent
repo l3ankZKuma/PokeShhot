@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/UI_SoundPack11_Select_v14.wav</SourceFile>
+  <SourceTime>2019-07-04T12:12:50+07:00</SourceTime>
+  <DestFile>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/UI_SoundPack11_Select_v14.xnb</DestFile>
+  <DestTime>2024-01-29T18:23:13.3149262+07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T18:44:56+07:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2022-07-26T18:44:56+07:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

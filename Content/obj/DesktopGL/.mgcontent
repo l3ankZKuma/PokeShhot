@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/Awesome.wav</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/about.png</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/apply.png</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/Arial.spritefont</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/Arrow.png</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/back.png</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/BG.png</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/Black.png</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bow_sheet.png</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bubble_sheet.png</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/exit.png</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/Logo.png</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/MenuScreen/BG.png</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/ranking.png</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/Spirit_of_the_Dead.mp3</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/start.png</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/transition t07 two-step 007.wav</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/UI_SoundPack11_Select_v14.wav</File>
+    <File>D:/Monogame/BubblePuzzle/BubblePuzzle/Content/UI_SoundPack8_Error_v1.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File>Calico_Desert.mp3</File>
+  </DestFiles>
+</SourceFileCollection>

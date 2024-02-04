@@ -1,0 +1,20 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/Awesome.wav","/Users/bankzkuma/Desktop/CSKMITL/GAMECOM/BubblePuzzle/Content/bin/DesktopGL/Awesome.xnb","SoundEffectProcessor","SoundEffectContent",266446,266345,0.304595
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/about.png","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/about.xnb","TextureProcessor","Texture2DContent",62516,79549,0.1119862
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/apply.png","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/apply.xnb","TextureProcessor","Texture2DContent",2133,30085,0.0079468
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/Arial.spritefont","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/Arial.xnb","FontDescriptionProcessor","SpriteFontContent",2068,37919,0.0898333
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/Arrow.png","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/Arrow.xnb","TextureProcessor","Texture2DContent",5549,14485,0.0050027
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/back.png","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/back.xnb","TextureProcessor","Texture2DContent",1984,30085,0.0053782
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/BG.png","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/BG.xnb","TextureProcessor","Texture2DContent",747792,3686485,0.0950603
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/Black.png","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/Black.xnb","TextureProcessor","Texture2DContent",5482,3686485,0.0904117
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bow_sheet.png","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/bow_sheet.xnb","TextureProcessor","Texture2DContent",14900,40085,0.0082907
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bubble_sheet.png","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/bubble_sheet.xnb","TextureProcessor","Texture2DContent",9306,19685,0.007002
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/exit.png","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/exit.xnb","TextureProcessor","Texture2DContent",115016,149549,0.007093
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/Logo.png","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/Logo.xnb","TextureProcessor","Texture2DContent",12948,360085,0.0117382
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/MenuScreen/BG.png","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/MenuScreen/BG.xnb","TextureProcessor","Texture2DContent",2768724,3686485,0.089775
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/ranking.png","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/ranking.xnb","TextureProcessor","Texture2DContent",44608,55749,0.0082276
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/Spirit_of_the_Dead.mp3","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/Calico_Desert.xnb","SongProcessor","SongContent",3135789,131,1.9654047
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/start.png","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/start.xnb","TextureProcessor","Texture2DContent",45786,57317,0.0060161
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/transition t07 two-step 007.wav","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/transition t07 two-step 007.xnb","SoundEffectProcessor","SoundEffectContent",335950,335977,0.0969307
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/UI_SoundPack11_Select_v14.wav","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/UI_SoundPack11_Select_v14.xnb","SoundEffectProcessor","SoundEffectContent",24654,24681,0.0902973
+"D:/Monogame/BubblePuzzle/BubblePuzzle/Content/UI_SoundPack8_Error_v1.wav","D:/Monogame/BubblePuzzle/BubblePuzzle/Content/bin/DesktopGL/UI_SoundPack8_Error_v1.xnb","SoundEffectProcessor","SoundEffectContent",66946,66901,0.0933444
